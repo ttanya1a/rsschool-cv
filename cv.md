@@ -33,12 +33,12 @@ So I'm sure I can do it.
 
 ## Code example
 ```
-function squareSum(numbers){
-let number = 0;
-numbers.forEach(function(item, i, numbers) {
-number = item*item+number;
-});
-return number;
+function squareSum(numbers) {
+    let number = 0;
+    numbers.forEach(function(item, i, numbers) {
+        number = item*item+number;
+    });
+    return number;
 }
 ```
 
