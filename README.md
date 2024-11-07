@@ -1,1 +1,1 @@
-1 https://ttanya1a.github.io/rsschool-cv/cv
+1 https://ttanya1a.github.io/rsschool-cv/
